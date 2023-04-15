@@ -1,0 +1,52 @@
+com.example.flashchat.app-activity-1.3.1-0 C:\Users\ccs-5\.gradle\caches\transforms-3\00a6e6a5b3242836942be5edb9f938e6\transformed\activity-1.3.1\res
+com.example.flashchat.app-browser-1.4.0-1 C:\Users\ccs-5\.gradle\caches\transforms-3\02562c11e671f85c64ab754e82d2fdc0\transformed\browser-1.4.0\res
+com.example.flashchat.app-play-services-basement-18.1.0-2 C:\Users\ccs-5\.gradle\caches\transforms-3\061a2cc8c0c14ee51544c3d0ae5b4e6a\transformed\play-services-basement-18.1.0\res
+com.example.flashchat.app-play-services-base-18.0.1-3 C:\Users\ccs-5\.gradle\caches\transforms-3\0d4f00f6b0d868e9a13799d10b795c62\transformed\play-services-base-18.0.1\res
+com.example.flashchat.app-ui-tooling-data-1.2.0-4 C:\Users\ccs-5\.gradle\caches\transforms-3\125ae23a84e4e05c10454be78df5e3e9\transformed\ui-tooling-data-1.2.0\res
+com.example.flashchat.app-customview-poolingcontainer-1.0.0-5 C:\Users\ccs-5\.gradle\caches\transforms-3\232647700cc97985b09c4e87518a1d7a\transformed\customview-poolingcontainer-1.0.0\res
+com.example.flashchat.app-firebase-common-20.2.0-6 C:\Users\ccs-5\.gradle\caches\transforms-3\2b8b3182d65bc3658731a8b9310ac0a4\transformed\firebase-common-20.2.0\res
+com.example.flashchat.app-material-ripple-1.2.0-7 C:\Users\ccs-5\.gradle\caches\transforms-3\3c40dc053c76412f60d4e72b3b76229f\transformed\material-ripple-1.2.0\res
+com.example.flashchat.app-startup-runtime-1.1.1-8 C:\Users\ccs-5\.gradle\caches\transforms-3\3e6bec99dff72126794c0b7c0ab4eb84\transformed\startup-runtime-1.1.1\res
+com.example.flashchat.app-savedstate-ktx-1.2.0-9 C:\Users\ccs-5\.gradle\caches\transforms-3\402bab1d525bda1977e2146a26884b62\transformed\savedstate-ktx-1.2.0\res
+com.example.flashchat.app-savedstate-1.2.0-10 C:\Users\ccs-5\.gradle\caches\transforms-3\4255891d05bc937b0aa26402550a8680\transformed\savedstate-1.2.0\res
+com.example.flashchat.app-navigation-runtime-ktx-2.4.0-alpha06-11 C:\Users\ccs-5\.gradle\caches\transforms-3\42eabde73a8b48b66b4a5617053c9639\transformed\navigation-runtime-ktx-2.4.0-alpha06\res
+com.example.flashchat.app-ui-tooling-1.2.0-12 C:\Users\ccs-5\.gradle\caches\transforms-3\47f41fa2fb7d024a126074e2bf426520\transformed\ui-tooling-1.2.0\res
+com.example.flashchat.app-navigation-common-2.4.0-alpha06-13 C:\Users\ccs-5\.gradle\caches\transforms-3\52cc02d3ad66c30483f02bc05dea7671\transformed\navigation-common-2.4.0-alpha06\res
+com.example.flashchat.app-profileinstaller-1.2.0-14 C:\Users\ccs-5\.gradle\caches\transforms-3\53daf9efc935ebe73ffefca7ead8f1bd\transformed\profileinstaller-1.2.0\res
+com.example.flashchat.app-navigation-compose-2.4.0-alpha06-15 C:\Users\ccs-5\.gradle\caches\transforms-3\58ad6bdfdef6a9844fbf17d37c6d36c9\transformed\navigation-compose-2.4.0-alpha06\res
+com.example.flashchat.app-runtime-saveable-1.2.0-16 C:\Users\ccs-5\.gradle\caches\transforms-3\623aa24408d4860626936137e3d9e9ea\transformed\runtime-saveable-1.2.0\res
+com.example.flashchat.app-ui-text-1.2.0-17 C:\Users\ccs-5\.gradle\caches\transforms-3\6de20d068ba62f8a277bd73d596b6332\transformed\ui-text-1.2.0\res
+com.example.flashchat.app-ui-tooling-preview-1.2.0-18 C:\Users\ccs-5\.gradle\caches\transforms-3\746cb4e03b7997a0cc9cb8ec1d704bc7\transformed\ui-tooling-preview-1.2.0\res
+com.example.flashchat.app-foundation-layout-1.2.0-19 C:\Users\ccs-5\.gradle\caches\transforms-3\78d634e7c09c682255d3c5473a14d108\transformed\foundation-layout-1.2.0\res
+com.example.flashchat.app-ui-test-manifest-1.2.0-20 C:\Users\ccs-5\.gradle\caches\transforms-3\80f6018b6c19d1985494fa16882f9d26\transformed\ui-test-manifest-1.2.0\res
+com.example.flashchat.app-activity-compose-1.3.1-21 C:\Users\ccs-5\.gradle\caches\transforms-3\884486366233b56dd23da6b0159261a5\transformed\activity-compose-1.3.1\res
+com.example.flashchat.app-lifecycle-viewmodel-2.3.1-22 C:\Users\ccs-5\.gradle\caches\transforms-3\8920b4a570c4790fa7687932f4802339\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.flashchat.app-animation-1.1.1-23 C:\Users\ccs-5\.gradle\caches\transforms-3\89458ce9e6421b37891391f18687bb89\transformed\animation-1.1.1\res
+com.example.flashchat.app-ui-1.2.0-24 C:\Users\ccs-5\.gradle\caches\transforms-3\8a2380ed62157d8bc392d89dddd1eabd\transformed\ui-1.2.0\res
+com.example.flashchat.app-lifecycle-runtime-2.3.1-25 C:\Users\ccs-5\.gradle\caches\transforms-3\8d7a1562df3bb5afd0e3fee9c9ccee29\transformed\lifecycle-runtime-2.3.1\res
+com.example.flashchat.app-runtime-1.2.0-26 C:\Users\ccs-5\.gradle\caches\transforms-3\9541f7a3a3c6c06fcb44cb8ee13588b7\transformed\runtime-1.2.0\res
+com.example.flashchat.app-ui-graphics-1.2.0-27 C:\Users\ccs-5\.gradle\caches\transforms-3\99d1a99981da4a1083f5365b8465e948\transformed\ui-graphics-1.2.0\res
+com.example.flashchat.app-runtime-livedata-1.2.0-28 C:\Users\ccs-5\.gradle\caches\transforms-3\a58189831514fceec64f71032e960b2c\transformed\runtime-livedata-1.2.0\res
+com.example.flashchat.app-core-1.7.0-29 C:\Users\ccs-5\.gradle\caches\transforms-3\b1bac6766c78197b904c546c431696a5\transformed\core-1.7.0\res
+com.example.flashchat.app-animation-core-1.1.1-30 C:\Users\ccs-5\.gradle\caches\transforms-3\b50047b4406998cc936fa4680fc36822\transformed\animation-core-1.1.1\res
+com.example.flashchat.app-ui-geometry-1.2.0-31 C:\Users\ccs-5\.gradle\caches\transforms-3\c8b4159cb1d2481da547e60c46c4ec1a\transformed\ui-geometry-1.2.0\res
+com.example.flashchat.app-coordinatorlayout-1.0.0-32 C:\Users\ccs-5\.gradle\caches\transforms-3\cd6f489e22b1dd860ea3e8cf1d9d7bdb\transformed\coordinatorlayout-1.0.0\res
+com.example.flashchat.app-ui-util-1.2.0-33 C:\Users\ccs-5\.gradle\caches\transforms-3\cff46233027ad35576aff1b742abb5cd\transformed\ui-util-1.2.0\res
+com.example.flashchat.app-material-icons-core-1.2.0-34 C:\Users\ccs-5\.gradle\caches\transforms-3\d1934c7c84865acec3f9bedebccb5493\transformed\material-icons-core-1.2.0\res
+com.example.flashchat.app-core-ktx-1.7.0-35 C:\Users\ccs-5\.gradle\caches\transforms-3\d5d0640ffa21b3fbaae4050dab260ecb\transformed\core-ktx-1.7.0\res
+com.example.flashchat.app-activity-ktx-1.3.1-36 C:\Users\ccs-5\.gradle\caches\transforms-3\d65e029dc7494b08931e824ae17687b3\transformed\activity-ktx-1.3.1\res
+com.example.flashchat.app-navigation-runtime-2.4.0-alpha06-37 C:\Users\ccs-5\.gradle\caches\transforms-3\dfe52a171f3efdbf3d593c909d2a41aa\transformed\navigation-runtime-2.4.0-alpha06\res
+com.example.flashchat.app-material-1.2.0-38 C:\Users\ccs-5\.gradle\caches\transforms-3\eac72e1cba967974450e4d2dcdc889cb\transformed\material-1.2.0\res
+com.example.flashchat.app-foundation-1.2.0-39 C:\Users\ccs-5\.gradle\caches\transforms-3\ead29cc780d8ad4273d7f7839e6c25ef\transformed\foundation-1.2.0\res
+com.example.flashchat.app-navigation-common-ktx-2.4.0-alpha06-40 C:\Users\ccs-5\.gradle\caches\transforms-3\ee059b9078226fef532fe5b602094f53\transformed\navigation-common-ktx-2.4.0-alpha06\res
+com.example.flashchat.app-ui-unit-1.2.0-41 C:\Users\ccs-5\.gradle\caches\transforms-3\efd5d7c150eadcced3040847adad7a77\transformed\ui-unit-1.2.0\res
+com.example.flashchat.app-annotation-experimental-1.1.0-42 C:\Users\ccs-5\.gradle\caches\transforms-3\f3fb0fc31b8abb75e9acc51e5e6c5457\transformed\annotation-experimental-1.1.0\res
+com.example.flashchat.app-lifecycle-viewmodel-compose-1.0.0-alpha07-43 C:\Users\ccs-5\.gradle\caches\transforms-3\fed04b011c71b5445ce3772cca83cdcc\transformed\lifecycle-viewmodel-compose-1.0.0-alpha07\res
+com.example.flashchat.app-google-services-44 C:\Users\ccs-5\AndroidStudioProjects\flash chat\app\build\generated\res\google-services\debug
+com.example.flashchat.app-resValues-45 C:\Users\ccs-5\AndroidStudioProjects\flash chat\app\build\generated\res\resValues\debug
+com.example.flashchat.app-rs-46 C:\Users\ccs-5\AndroidStudioProjects\flash chat\app\build\generated\res\rs\debug
+com.example.flashchat.app-packageDebugResources-47 C:\Users\ccs-5\AndroidStudioProjects\flash chat\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.flashchat.app-packageDebugResources-48 C:\Users\ccs-5\AndroidStudioProjects\flash chat\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.flashchat.app-merged_res-49 C:\Users\ccs-5\AndroidStudioProjects\flash chat\app\build\intermediates\merged_res\debug
+com.example.flashchat.app-debug-50 C:\Users\ccs-5\AndroidStudioProjects\flash chat\app\src\debug\res
+com.example.flashchat.app-main-51 C:\Users\ccs-5\AndroidStudioProjects\flash chat\app\src\main\res
